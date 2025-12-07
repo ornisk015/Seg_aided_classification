@@ -15,3 +15,5 @@ the ISIC 2017 dataset, achieving an average Dice score of 0.8712
 and a Jaccard index of 0.7965 for 5-fold cross-validation in
 segmentation, and 73% test accuracy in mask-informed clas-
 sification.
+
+
